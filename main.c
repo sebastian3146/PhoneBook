@@ -1,9 +1,9 @@
 //---------------------------------------------------------------------------
 /*
-Entwickler: Sebastian M.
-Datum: 21.02.2023
+Autor: sebastian3146
+Date: 21.02.2023
 Name: Adressbuch
-Beschreibung: Ein simples Adressbuch mit Benutzteroberflaeche
+Description: Ein simples Adressbuch mit Benutzteroberflaeche
 Version: 1.1
 */
 //---------------------------------------------------------------------------
